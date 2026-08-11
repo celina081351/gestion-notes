@@ -3,7 +3,7 @@
 @section('title', 'Tableau de bord')
 
 @section('content')
-<h2 class="mb-4"><i class="bi bi-speedometer2 me-2"></i>Tableau de bord</h2>
+<h2 class="mb-4"><i class="bi bi-speedometer2 me-2"></i>Tableau de bord modifier sur git</h2>
 
 <div class="row g-4 mb-5">
     <div class="col-md-4">
